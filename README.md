@@ -3,13 +3,13 @@
 <html>
 <a href="about.html" title="About Me">About Me</a>
 <head>
-	<title>Ollie Bike Sharing</title>
+	<title></title>
 	<meta charset="utf-8"/>
 	<link rel="stylesheet" type="text/css" href="main.css">
 </head>
 <body>
-	<h1>I wish myself a very good luck and work hard on this :)</h1>
-	<img src = "image/IMG_2802.jpg" width = 200 >
+	<h1>opening page</h1>
+	<img src = "" width = 200 >
 	
 	![](audio/Opening sound webpage!!.mp3)
 	
