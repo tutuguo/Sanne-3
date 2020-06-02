@@ -1,7 +1,5 @@
 # Sanne-3
-Version 3
 
-<!DOCTYPE html>
 <html>
 <a href="about.html" title="About Me">About Me</a>
 <head>
@@ -12,6 +10,9 @@ Version 3
 <body>
 	<h1>I wish myself a very good luck and work hard on this :)</h1>
 	<img src = "image/IMG_2802.jpg" width = 200 >
+	
+	![](audio/Opening sound webpage!!.mp3)
+	
 </body>
 </html>
 
