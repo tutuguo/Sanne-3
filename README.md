@@ -16,8 +16,8 @@
 </body>
 
 <audio controls="controls">
-  <source type="audio/mp3" src="audio/Opening sound webpage!!.mp3"></source>
-  <source type="audio/ogg" src="audio/Opening sound webpage!!.mp3"></source>
+  <source type="audio/mp3" src="audio/Opening.mp3"></source>
+  <source type="audio/ogg" src="audio/Opening.mp3.mp3"></source>
   <p></p>
 </audio>
 
