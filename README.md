@@ -3,6 +3,7 @@ Version 3
 
 <!DOCTYPE html>
 <html>
+<a href="about.html" title="About Me">About Me</a>
 <head>
 	<title>Ollie Bike Sharing</title>
 	<meta charset="utf-8"/>
