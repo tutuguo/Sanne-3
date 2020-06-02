@@ -1,7 +1,7 @@
 # Sanne-3
 
 <html>
-<a href="about.html" title="About Me">About Me</a>
+<a href="about.html" title="Enter">Enter</a>
 <head>
 	<title></title>
 	<meta charset="utf-8"/>
@@ -9,7 +9,7 @@
 </head>
 <body>
 	<h1>opening page</h1>
-	<img src = "" width = 200 >
+	
 	
 	
 	
