@@ -9,7 +9,7 @@
 </head>
 <body>
 	<h1>opening page</h1>
-	#<img src = "" width = 200 >
+	<img src = "" width = 200 >
 	
 	
 	
@@ -18,7 +18,7 @@
 <audio controls="controls">
   <source type="audio/mp3" src="audio/Opening sound webpage!!.mp3"></source>
   <source type="audio/ogg" src="audio/Opening sound webpage!!.mp3"></source>
-  <p>Your browser does not support the audio element.</p>
+  <p></p>
 </audio>
 
 </html>
