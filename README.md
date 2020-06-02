@@ -9,10 +9,7 @@
 </head>
 <body>
 	<h1>opening page</h1>
-	
-	
-	
-	
+
 </body>
 
 <audio controls="controls">
