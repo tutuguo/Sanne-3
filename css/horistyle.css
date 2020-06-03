@@ -7,6 +7,7 @@ body
 
 .slide {
   width: 100vw;
+  height: 100vh;
  
 }
 
@@ -14,16 +15,13 @@ body
   display: flex;
   flex-direction: row;
   width: 400vw;
-  transform: rotate(90deg) translateY(-100vh);
-  transform-origin: top left;
 }
-.image1 {
+.image1
    width: 30%;
   display: block;
 }
 .two {
-  position: 200px;
-  background: black;
+  background: #efdefe;
 }
 .three {
   background: red;
@@ -45,8 +43,12 @@ body
   overflow-y: scroll;
   overflow-x: hidden;
   position: absolute;
-  scrollbar-width: none;
-  -ms-overflow-style: none;
+ 
+}
+
+.outer-warpper{
+ scrollbar-width: none;
+ -ms-overflow-style: none;
 }
 
 ::-webkit-scrollbar {
