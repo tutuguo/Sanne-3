@@ -21,6 +21,7 @@ body
   background: blue;
 }
 .two {
+  position: 200px;
   background: black;
 }
 .three {
