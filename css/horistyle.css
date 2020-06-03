@@ -1,57 +1,16 @@
-body
-{
-    Margin: 0;
-    pagging: 0;
- 
+html, body {margin: 0; padding: 0;}
+
+#myWorkContent{
+    width:530px;
+    height:210px;
+    border: 13px solid #bed5cd;
+    overflow-x: scroll;
+    overflow-y: hidden;
+    white-space: nowrap;
+}
+#myWorkContent a {
+    display: inline-block;
+    vertical-align: middle;
 }
 
-.slide {
-  width: 100vw;
-  height: 100vh;
- 
-}
-
-.wrapper {
-  display: flex;
-  flex-direction: row;
-  width: 400vw;
-}
-.one
-  background: #efdefe;
-}
-.two {
-  background: #efdefe;
-}
-.three {
-  background: #green;
-}
-.four {
-  background: #00dfdf;
-}
-
-.wrapper {
-...
-  transform: rotate(90deg) translateY(-100vh);
-  transform-origin: top left;
-}
-.outer-wrapper {
-  width: 100vh;
-  height: 100vw;
-  transform: rotate(-90deg) translateX(-100vh);
-  transform-origin: top left;
-  overflow-y: scroll;
-  overflow-x: hidden;
-  position: absolute;
- 
-}
-
-.outer-warpper{
- scrollbar-width: none;
- -ms-overflow-style: none;
-}
-
-::-webkit-scrollbar {
-  display:none;
-}
-  
-  
+#myWorkContent img {border: 0;}
