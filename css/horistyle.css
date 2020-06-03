@@ -16,15 +16,14 @@ body
   flex-direction: row;
   width: 400vw;
 }
-.image1
-   width: 30%;
-  display: block;
+.one
+  background: #efdefe;
 }
 .two {
   background: #efdefe;
 }
 .three {
-  background: red;
+  background: #green;
 }
 .four {
   background: #00dfdf;
