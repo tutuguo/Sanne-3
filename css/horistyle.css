@@ -18,13 +18,13 @@ body
   transform-origin: top left;
 }
 .one {
-  background: #efdefe;
+  background: blue;
 }
 .two {
-  background: #a3f3d3;
+  background: #green;
 }
 .three {
-  background: #0bbaa0;
+  background: red;
 }
 .four {
   background: #00dfdf;
