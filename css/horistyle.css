@@ -38,10 +38,10 @@ body {
 }
 
 .one {
-  background-color: #45CCFF;
+  background-color: $bg-gray;
 }
 .two {
-  background-color: #49E83E;
+  background-color: #f1f8ff;
 }
 .three {
   background-color: #EDDE05;
