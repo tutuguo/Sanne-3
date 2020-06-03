@@ -1,22 +1,22 @@
 
 
-<html>
-<a href="about.html" title="Enter">Enter</a>
-<head>
+#<html>
+#<a href="about.html" title="Enter">Enter</a>
+#<head>
 	<title>  </title>
 	<meta charset="utf-8"/>
 	<link rel="stylesheet" type="text/css" href="main.css">
-</head>
+#</head>
 
 
-</body>
+#</body>
 
-<audio controls="controls">
+#<audio controls="controls">
   <source type="audio/mp3" src="audio/Opening.mp3"></source>
   <source type="audio/ogg" src="audio/Opening.mp3.mp3"></source>
   <p></p>
-</audio>
+#</audio>
 
-</html>
+#</html>
 
 
