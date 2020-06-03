@@ -7,9 +7,7 @@
 	<meta charset="utf-8"/>
 	<link rel="stylesheet" type="text/css" href="main.css">
 </head>
-<body>
-	<h1>opening page</h1>
-	<img src="image/1.jpg" width=200>
+
 
 </body>
 
