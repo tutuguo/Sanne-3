@@ -18,7 +18,8 @@ body
   transform-origin: top left;
 }
 .image1 {
-  background: blue;
+   width: 50%;
+  display: block;
 }
 .two {
   position: 200px;
