@@ -4,7 +4,35 @@ body
     pagging: 0;
     font-family: sans-serif;
 }
-.container
+
+.slide{
+    width: 100vw;
+    height:100vh:
+{
+    
+.wrapper{
+    display: flex;
+    flex-direction: row;
+    width: 400vw;
+}
+
+    .one{
+    background: #efdefe;
+    }
+    
+      .two{
+    background: #a3f3d3;
+    }
+    
+      .three{
+    background: #0bbaa0;
+    }
+    
+      .four{
+    background: #00df00;
+    }
+
+#.container
 {
    position: fixed;
    top: 0;
@@ -13,20 +41,20 @@ body
    display: flex;
 }
 
-section
+#section
 {
     min-width: 100%
     height: auto;
     display: flex;
 }
-section .imgBx
+#section .imgBx
 {
     position: relative;
     min-width: 50%;
-    height: 100vh;
+    height: 50vh;
 }
 
-section .imgBx img
+#section .imgBx img
 {
     position: absolute:
      top: 0;
