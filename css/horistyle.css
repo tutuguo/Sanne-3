@@ -17,7 +17,7 @@ body
   transform: rotate(90deg) translateY(-100vh);
   transform-origin: top left;
 }
-.one {
+.image1 {
   background: blue;
 }
 .two {
