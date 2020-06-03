@@ -1,9 +1,19 @@
 html, body {margin: 0; padding: 0;}
 
-.container {    display: flex;    overflow-x: auto;}
-
-.container img {    margin-right: 15px;}
-
-.container::-webkit-scrollbar {    display: none;}
-
-body {   display: flex;   align-items: center;   height: 100vh;}
+html, body {
+    height: 100%;
+}
+ 
+.surroundContainer {
+    height: 100%;
+    overflow: auto;
+    white-space: nowrap;
+}
+ 
+.hPage {
+    display: inline-block;
+    height: 100%;
+    width: 100%;
+    background-color: blue;
+}
+When viewing in F
