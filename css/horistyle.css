@@ -1,16 +1,5 @@
 html, body {margin: 0; padding: 0;}
 
-#myWorkContent{
-    width:530px;
-    height:210px;
-    border: 13px solid #bed5cd;
-    overflow-x: scroll;
-    overflow-y: hidden;
-    white-space: nowrap;
-}
-#myWorkContent a {
-    display: inline-block;
-    vertical-align: middle;
-}
+.container {    display: flex;    overflow-x: auto;}
 
-#myWorkContent img {border: 0;}
+
