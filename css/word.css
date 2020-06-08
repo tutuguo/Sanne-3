@@ -2,12 +2,16 @@
  margin: 0;
  box-sizing-border-box;}
 
-.section{
-padding: 20px;
-display: flex;
-flex-direction: column;
-text-align: justify;
-height: 100vh;
-justify-content: center;
-align-items: center; 
+.top{
+position:relative;
+height: 200px;
+}
+
+.txtdiv{
+position: absolute;
+font-size: 9px;
+font-style: italic;
+bottom: 1em;
+left: 1em;
+width: 250px; 
 }
