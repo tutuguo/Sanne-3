@@ -1,14 +1,12 @@
 .container1{
-position: relative;
-text-align: center;
+  position: relative;
+  text-align: center;
+  padding-top: 200px;
+  padding-left: 50px;
+  padding-right: 50px;
 }
 
 .text1{
   position:absolute;
-  top:80%;
-  left:50%;
   transform: translate(-50%,-50%);
-  padding-top: 200px;
-  padding-left: 50px;
-  padding-right: 50px;
 }
