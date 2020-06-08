@@ -1,15 +1,13 @@
-.top{
- position: relative;
- font-family: Arial; 
-}
+*{padding: 0;
+ margin: 0;
+ box-sizing-border-box;}
 
-.intro{
-  position: absolute;
-  bottom:20px;
-  lfet: 50px;
-  background-color: #fafbfc;
-  color: #24292e;
-  padding-top: 50px;
-  padding-left: 30px;
-  padding-right: 10px;
+.section{
+padding: 20px;
+display: flex;
+flex-direction: column;
+text-align: justify;
+height: 100vh;
+justify-content: center;
+align-items: center; 
 }
