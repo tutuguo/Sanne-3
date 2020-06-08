@@ -8,4 +8,7 @@ text-align: center;
   top:80%;
   left:50%;
   transform: translate(-50%,-50%);
+  padding-top: 200px;
+  padding-left: 50px;
+  padding-right: 50px;
 }
