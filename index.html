@@ -15,7 +15,7 @@
  	background-repeat: no-repeat;
   	background-attachment: fixed;  
  	background-size: cover;	
-	background-color: #f1f8ff;				       
+	background-color: #55afef;				       
 }
 </style>						       
 	
@@ -33,10 +33,26 @@
 		}   
 	</script>
 													
-	<img src="image/Op1.gif" onclick="playAudio('audio/baby.mp3')" alt="Het ergens" width="200px" >												
-	
-					     
+	<img src="image/Op1.gif" onclick="playAudio('audio/baby.mp3')" alt="Het ergens" width="600 >												
+<style>
+		div {
+  width: 100px;
+  height: 100px;
+  background: red;
+  position: relative;
+  animation: myfirst 5s 2;
+  animation-direction: alternate;
+}
 
+@keyframes myfirst {
+  0%   {background: red; left: 0px; top: 0px;}
+  25%  {background: yellow; left: 200px; top: 0px;}
+  50%  {background: blue; left: 200px; top: 200px;}
+  75%  {background: green; left: 0px; top: 200px;}
+  100% {background: red; left: 0px; top: 0px;}
+}
+					     
+		</style>
 							   
 	
   
