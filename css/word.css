@@ -1,14 +1,14 @@
 .container1{
  position: relative;
- font-family:  
+ font-family: Arial; 
 }
 
 .text-block1{
   position: absolute;
   bottom:20px;
   lfet: 50px;
-  background-color: white;
-  color: black;
+  background-color: #fafbfc;
+  color: #24292e;
   padding-top: 50px;
   padding-left: 30px;
   padding-right: 10px;
