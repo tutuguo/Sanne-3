@@ -4,10 +4,10 @@
   margin-right:auto;
 }
 
-.text1{
-  position: absolute;
+.h1{
+  text-align: center;
+  background-color: white;
   font-size: 15px;
-  transform: translate(-50%,-50%);
   padding-top: 200px;
   padding-left: 50px;
   padding-right: 50px;
